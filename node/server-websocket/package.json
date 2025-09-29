@@ -1,0 +1,23 @@
+{
+  "name": "node-server-websocket",
+  "version": "0.0.1",
+  "description": "Websocket server with nodejs (v14.21.3)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faryid/tcp-udp-node"
+  },
+  "keywords": [
+    "nodejs",
+    "websocket"
+  ],
+  "author": "faryid",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
