@@ -1,0 +1,23 @@
+{
+  "name": "node-server-express",
+  "version": "0.0.1",
+  "description": "Web server using express with nodejs (v14.21.3)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faryid/tcp-udp-node"
+  },
+  "keywords": [
+    "nodejs",
+    "web-server"
+  ],
+  "author": "faryid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
